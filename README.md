@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -->
 🌱 my first application is a mosque data management system
-[Lihat Penjelasan Aplikasi Mesjid](mesjid.md)
+[masjid](masjid.md)
 
 🌱  I’m currently creating a **farfume data manajemen apliction**
  
