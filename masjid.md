@@ -2,9 +2,13 @@
 “Proyek pertama saya: Aplikasi Pengelolaan Masjid. Dibuat sebagai Tugas Akhir dengan tujuan membantu masyarakat perantau memantau kegiatan, laporan keuangan, dan informasi masjid secara online. Sistem ini menggantikan proses manual, menuju manajemen yang lebih efisien, transparan, dan akuntabel. pembuatan aplikasi saya menggunakan fremwork laravel dan sudah saya push di repositori dengan judul Finising TA”
 
 * Berikut adalah tampilan utama
+  
 -Terdapat halaman Home visi dan misi
+
 -Halaman Berita yaitu informasi mesjid seperti keuangan acara dll
+
 -Halaman kontak pesan user bisa berupa mesjid atau aplikasi
+
 -Dan halaman login admin
 
 ![vikry](img/Home.PNG)
