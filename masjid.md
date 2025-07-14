@@ -22,6 +22,7 @@
 ![vikry](img/dasbord.PNG)
 
 * halaman pengurus ada data pengurus beserta jabatannya, disini terdapat crud pengurus dan crud jabatan
+  
 ![vikry](img/pengurus.PNG)
 ![vikry](img/createjabatan.PNG)
 ![vikry](img/createpengurus.PNG)
