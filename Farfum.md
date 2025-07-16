@@ -49,27 +49,27 @@ Membuat laporan penjualan dengan cepat dan akurat.
 
 * Berikut tamplan stok gudang yang terisi otomatis dengan berlelasikan form pengiriman form barang masuk form penjualan
 
-![alt text](img/gudang.png)
+![vikry](img/gudang.png)
 
 * Berikut tamplan stock barang permasing toko terisi otomatis juga berlelasikan pengiriman, barang masuk, dan penjualan
 
-![alt text](img/stock.png)
+![vikry](img/stock.png)
 
 * Berikut tampilan crud Market dan Suplay
 
-![alt text](img/market.png) ![alt text](img/supplies.png)
+![vikry](img/market.png) ![alt text](img/supplies.png)
 
 * Berikut tampilan ukuran botol
 
-![alt text](img/ukuran.png)
+![vikry](img/ukuran.png)
 
 * Berikut tampilan form penjualan input dan edit. di bagian input pejualan sudah di konversikan ke mililiter
 
-![alt text](img/jual.png) ![alt text](img/inputpenjualan.png) ![alt text](img/editjual.png)
+![vikry](img/jual.png) ![vikry](img/inputpenjualan.png) ![vikry](img/editjual.png)
 
 * Saya juga sudah masukan fitur grafik di form penjualan, pengiriman, gudang, stok market dan barang masuk
 
-![alt text](img/grafik.png)
+![vikry](img/grafik.png)
 
 * berikut tampilan hak akses 
 
