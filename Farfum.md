@@ -57,7 +57,7 @@ Membuat laporan penjualan dengan cepat dan akurat.
 
 * Berikut tampilan crud Market dan Suplay
 
-![vikry](img/market.png) ![alt text](img/supplies.png)
+![vikry](img/market.png) ![vikry](img/supplies.png)
 
 * Berikut tampilan ukuran botol
 
