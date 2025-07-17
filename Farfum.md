@@ -44,28 +44,28 @@ Aplikasi ini dibuat untuk membantu manajemen cabang parfum Fermfume agar dapat:
 ![vikry](gambar/pengiriman.PNG) ![vikry](gambar/inputpengiriman.PNG) ![vikry](gambar/editpengiriman.PNG)
 
 **Stok Gudang (otomatis berdasarkan relasi pengiriman, barang masuk, penjualan)**
-![vikry](gambar/gudang.png)
+![vikry](gambar/gudang.PNG)
 
 **Stok per Toko (otomatis juga dari data pengiriman, barang masuk, dan penjualan)**
-![vikry](gambar/stock.png)
+![vikry](gambar/stock.PNG)
 
 **CRUD Market dan Suplai**
-![vikry](gambar/market.png) ![vikry](gambar/supplies.png)
+![vikry](gambar/market.PNG) ![vikry](gambar/supplies.PNG)
 
 **Ukuran Botol**
-![vikry](gambar/ukuran.png)
+![vikry](gambar/ukuran.PNG)
 
 **Penjualan - Form Utama, Input (mililiter), dan Edit**
-![vikry](gambar/jual.png) ![vikry](gambar/inputpenjualan.png) ![vikry](gambar/editjual.png)
+![vikry](gambar/jual.PNG) ![vikry](gambar/inputpenjualan.PNG) ![vikry](gambar/editjual.PNG)
 
 **Grafik - Tersedia di form penjualan, pengiriman, gudang, stok market dan barang masuk**
-![vikry](gambar/grafik.png)
+![vikry](gambar/grafik.PNG)
 
 **Hak Akses (Role Management)**
-![vikry](gambar/rolerolerole.png) ![vikry](gambar/roleinput.png)
+![vikry](gambar/rolerolerole.PNG) ![vikry](gambar/roleinput.PNG)
 
 **Export ke Excel (contoh tampilan hasil export)**
-![vikry](gambar/exsel.png)
+![vikry](gambar/exsel.PNG)
 
 ---
 
