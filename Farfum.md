@@ -48,7 +48,7 @@ Aplikasi ini dibuat untuk membantu manajemen cabang parfum Fermfume agar dapat:
 ![vikry](gambar/gudang.PNG)
 
 **Stok per Toko (otomatis juga dari data pengiriman, barang masuk, dan penjualan)**
-![vikry](gambar/stock.PNG)
+![vikry](gambar/stok.PNG)
 
 **CRUD Market dan Suplai**
 ![vikry](gambar/market.PNG) ![vikry](gambar/supplies.PNG)
