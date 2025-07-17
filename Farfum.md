@@ -1,74 +1,105 @@
-## Sistem Pengelolaan Data Penjualan Farfum
+# 🌸 Sistem Pengelolaan Data Penjualan Farfum
 
-Farfum adalah aplikasi pengelolaan data penjualan parfum yang dirancang untuk membantu Anda memantau, menganalisis, dan mengelola penjualan di setiap cabang secara efisien dan aplikasi sudah saya push di github dengan judul Backend **Farfume** dan Frontend dengan judul **FarfumeFrontend**.
+**Farfum** adalah aplikasi pengelolaan data penjualan parfum yang dirancang untuk membantu Anda memantau, menganalisis, dan mengelola penjualan di setiap cabang secara efisien.
+
+Aplikasi ini dibangun menggunakan **framework Laravel** untuk backend dan **React** untuk frontend, dan telah saya unggah ke GitHub dengan nama repository:  
+- Backend: **Farfume**  
+- Frontend: **FarfumeFrontend**
 
 ---
 
-✨ **Fitur Utama**
+## 🎯 Fitur Utama
+
 - **Manajemen Data Cabang:** Pantau penjualan di setiap cabang secara detail.
-- **Perhitungan Otomatis:** Sistem sudah dilengkapi perhitungan aritmatika otomatis untuk memudahkan rekap data.
-- **Grafik Penjualan:** Visualisasi data penjualan melalui grafik interaktif.
-- **Export Data:** Fitur export data penjualan untuk kebutuhan laporan.
-- **Backend API:** Backend sudah terpisah dengan arsitektur RESTful API yang siap diintegrasikan.
+- **Perhitungan Otomatis:** Perhitungan aritmatika otomatis untuk rekap stok & penjualan.
+- **Grafik Penjualan:** Visualisasi data melalui grafik interaktif.
+- **Export Data:** Ekspor data penjualan ke format Excel.
+- **Role Management:** Pengaturan hak akses pengguna oleh Super Admin.
+- **Backend API:** Menggunakan arsitektur RESTful API.
 
 ---
 
-🚧 **Status Pengembangan**
+## 📈 Tujuan
 
-✅ Backend API tahap penyelesainan  
-✅ Perhitungan & export data selesai  
-✅ Visualisasi data melalui grafik selesai  
-🛠️ Desain antarmuka masih dalam tahap pengembangan  
-
----
-
-🎯 **Tujuan**
-Aplikasi ini dibuat untuk membantu manajemen cabang parfum Fermfume agar dapat:
-- Memantau performa penjualan di tiap cabang.
-- Mengoptimalkan strategi penjualan berdasarkan data aktual.
-- Membuat laporan penjualan dengan cepat dan akurat.
+Aplikasi ini dibuat untuk membantu manajemen parfum Fermfume agar dapat:
+- Memantau performa penjualan tiap cabang.
+- Mengoptimalkan strategi berdasarkan data nyata.
+- Membuat laporan penjualan cepat dan akurat.
 
 ---
 
-### 📷 Tampilan Aplikasi
+## 🚧 Status Pengembangan
 
-**Login**
-![vikry](gambar/loginfarfum.PNG)
-
-**E-commerce (dalam pengembangan)**
-![vikry](gambar/ecomerse.PNG)
-
-**Barang Masuk - Form Utama, Input, Edit**
-![vikry](gambar/barangmasuk.PNG) ![vikry](gambar/inputmasuk.PNG) ![vikry](gambar/editmasuk.PNG)
-
-**Pengiriman Barang - Form Utama, Input, Edit**
-![vikry](gambar/pengiriman.PNG) ![vikry](gambar/inputpengiriman.PNG) ![vikry](gambar/editpengiriman.PNG)
-
-**Stok Gudang (otomatis berdasarkan relasi pengiriman, barang masuk, penjualan)**
-![vikry](gambar/gudang.PNG)
-
-**Stok per Toko (otomatis juga dari data pengiriman, barang masuk, dan penjualan)**
-![vikry](gambar/stok.PNG)
-
-**CRUD Market dan Suplai**
-![vikry](gambar/market.PNG) ![vikry](gambar/supplies.PNG)
-
-**Ukuran Botol**
-![vikry](gambar/ukuran.PNG)
-
-**Penjualan - Form Utama, Input (mililiter), dan Edit**
-![vikry](gambar/jual.PNG) ![vikry](gambar/inputpenjualan.PNG) ![vikry](gambar/editjual.PNG)
-
-**Grafik - Tersedia di form penjualan, pengiriman, gudang, stok market dan barang masuk**
-![vikry](gambar/grafik.PNG)
-
-**Hak Akses (Role Management)**
-![vikry](gambar/rolerolerole.PNG) ![vikry](gambar/roleinput.PNG)
-
-**Export ke Excel (contoh tampilan hasil export)**
-![vikry](gambar/exsel.PNG)
+✅ Backend API tahap penyelesaian  
+✅ Perhitungan otomatis & fitur ekspor selesai  
+✅ Grafik dan visualisasi selesai  
+🛠️ Desain antarmuka masih dalam pengembangan
 
 ---
 
-✉️ **Terima kasih** telah melihat proyek ini.  
-Kontribusi, saran, dan masukan sangat saya harapkan untuk pengembangan aplikasi ini ke depannya.
+## 📸 Tampilan Aplikasi
+
+### 🔐 Login
+![Login](gambar/loginfarfum.PNG)
+
+### 🛍️ E-commerce
+Untuk tampilan ecomerse sedang dalam tahap pengembangan
+![Ecommerce](gambar/ecomerse.PNG)
+
+### 📦 Barang Masuk
+- Form Utama  
+  ![Barang Masuk](gambar/barangmasuk.PNG)  
+- Input  
+  ![Input Barang Masuk](gambar/inputmasuk.PNG)  
+- Edit  
+  ![Edit Barang Masuk](gambar/editmasuk.PNG)
+
+### 🚚 Pengiriman Barang
+- Form Utama  
+  ![Pengiriman](gambar/pengiriman.PNG)  
+- Input  
+  ![Input Pengiriman](gambar/inputpengiriman.PNG)  
+- Edit  
+  ![Edit Pengiriman](gambar/editpengiriman.PNG)
+
+### 🏢 Stok Gudang 
+Stok gudang akan otomatis terisi menggunakan logika aritmatika dan relasi
+![Stok Gudang](gambar/gudang.PNG)
+
+### 🏬 Stok per Toko 
+Begitupun stok toko akan otomatis terisi menggunakan logika aritmatika dan relasi
+![Stok Toko](gambar/stok.PNG)
+
+### 🏷️ Market & Supplier
+![Market](gambar/market.PNG)  
+![Supplie](gambar/supplies.PNG)
+
+### 🧴 Ukuran Botol
+![Ukuran Botol](gambar/ukuran.PNG)
+
+### 💸 Penjualan
+- Form Utama  
+  ![Penjualan](gambar/jual.PNG)  
+- Input penjualan di konversikan kedalam mililiter
+  ![Input Penjualan](gambar/inputpenjualan.PNG)  
+- Edit  
+  ![Edit Penjualan](gambar/editjual.PNG)
+
+### 📊 Grafik Penjualan & Stok
+Grafik juga tersedia di berbagai halaman: penjualan, pengiriman, gudang, dan stok.  
+![Grafik](gambar/grafik.PNG)
+
+### 🔐 Hak Akses (Role Management)
+![Role List](gambar/rolerolerole.PNG)  
+![Input Role](gambar/roleinput.PNG)
+
+### 📤 Export ke Excel
+Contoh tampilan hasil export:  
+![Export](gambar/exsel.PNG)
+
+---
+
+## ✉️ Terima Kasih
+
+Terima kasih telah melihat proyek ini.  
+Saya sangat menghargai setiap saran, kritik, atau masukan untuk pengembangan lebih lanjut ke depannya.
