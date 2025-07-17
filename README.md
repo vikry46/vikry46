@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-🌱 my first application is a mosque data management system
-[masjid](masjid.md)
+🌱 my first application is a mosque data management system [Mesjid](masjid.md)
 
-🌱  I’m currently creating a **farfume data manajemen apliction**
+🌱  I’m currently creating a **farfume data manajemen apliction** [Farfum](farfum.md)
  
 🌱 I am very happy with **Laravel** and **React JS** and I continue to hone and deepen in these areas, and it is not impossible that I will learn new languages in the future.
  ##### skills
