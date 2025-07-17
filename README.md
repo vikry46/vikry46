@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 My first application is a mosque data management system: [Klik Disini](masjid.md)  
+🌱 My first application is a **Masjid data management system**: [Klik Disini](masjid.md)  
 
 🌱 I’m currently creating a **Farfume data management application**: [Klik Disini](Farfum.md)  
 
