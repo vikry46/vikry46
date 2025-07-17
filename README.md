@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 My first application is a mosque data management system: [Mesjid](masjid.md)  
+🌱 My first application is a mosque data management system: [Klik Disini](masjid.md)  
 
-🌱 I’m currently creating a **Farfume data management application**: [Farfum](Farfum.md)  
+🌱 I’m currently creating a **Farfume data management application**: [Klik Disini](Farfum.md)  
 
 🌱 I really enjoy working with **Laravel** and **React JS**. I am continuously honing and deepening my skills in these technologies, and I am open to learning new languages in the future.
 
