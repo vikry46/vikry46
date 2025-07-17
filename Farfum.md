@@ -14,6 +14,7 @@ Farfum adalah aplikasi pengelolaan data penjualan parfum yang dirancang untuk me
 ---
 
 🚧 **Status Pengembangan**
+
 ✅ Backend API tahap penyelesainan  
 ✅ Perhitungan & export data selesai  
 ✅ Visualisasi data melalui grafik selesai  
