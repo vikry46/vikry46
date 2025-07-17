@@ -1,65 +1,71 @@
-## Sistem Pengelolaan Data Mesjid
-“Proyek pertama saya: Aplikasi Pengelolaan Masjid. Dibuat sebagai Tugas Akhir dengan tujuan membantu masyarakat perantau memantau kegiatan, laporan keuangan, dan informasi masjid secara online. Sistem ini menggantikan proses manual, menuju manajemen yang lebih efisien, transparan, dan akuntabel. pembuatan aplikasi saya menggunakan fremwork laravel dan sudah saya push di repositori dengan judul Finising Mesjid”
+## Sistem Pengelolaan Data Masjid
 
-* Berikut adalah tampilan utama
-  
--Terdapat halaman Home visi dan misi
+**Proyek pertama saya: Aplikasi Pengelolaan Masjid.**  
+Dibuat sebagai Tugas Akhir dengan tujuan membantu masyarakat perantau memantau kegiatan, laporan keuangan, dan informasi masjid secara online. Sistem ini menggantikan proses manual, menuju manajemen yang lebih efisien, transparan, dan akuntabel.
 
--Halaman Berita yaitu informasi mesjid seperti keuangan acara dll
+Aplikasi ini dibangun menggunakan **framework Laravel** dan telah saya unggah ke repository dengan judul **Finising Mesjid**.
 
--Halaman kontak pesan user bisa berupa mesjid atau aplikasi
+---
 
--Dan halaman login admin
+### 🎯 Fitur Utama
 
-![vikry](img/Home.PNG)
+- **Halaman Home** berisi visi dan misi masjid.
+- **Halaman Berita**: Informasi keuangan, kegiatan, dan berita penting lainnya.
+- **Halaman Kontak**: Formulir pesan dari user untuk pihak masjid.
+- **Halaman Login Admin**: Akses ke sistem manajemen internal.
 
-* Halaman Login
-  
-![vikry](img/login.PNG)
+---
 
-* Halaman Utama dashboard
-  
-![vikry](img/dasbord.PNG)
+### 📸 Tampilan Aplikasi
 
-* halaman pengurus ada data pengurus beserta jabatannya, disini terdapat crud pengurus dan crud jabatan
-  
-![vikry](img/pengurus.PNG)
-![vikry](img/createjabatan.PNG)
-![vikry](img/createpengurus.PNG)
+#### 🏠 Halaman Home (Visi & Misi)
+![Home](img/Home.PNG)
 
-* Halaman berikut terdapat crud Nama Ust yang akan mengisi acara seperti khubah dll dan akan di tampilkan di halaman berita
-  
-![vikry](img/ust.PNG)
+#### 🔐 Halaman Login
+![Login](img/login.PNG)
 
-* Halamat berikut berisi crud jenis kegiatan, sebagai relasi ke halaman kegiatan
-  
-![vikry](img/kegiatan.PNG)
+#### 📊 Dashboard Utama
+![Dashboard](img/dasbord.PNG)
 
-* Halaman crud kegiatan saya buat dalam bentuk kalender agar lebih efesien mengingat waktu tanggal acara di mulai, pada tanggal dapat mengklik acara untuk menampilkan detail acara
-  
-![vikry](img/tangal.PNG)
-![vikry](img/tgcrud.PNG)
+#### 👥 Pengurus & Jabatan
+Terdapat CRUD data pengurus serta jabatan:
+![Pengurus](img/pengurus.PNG)  
+![Create Jabatan](img/createjabatan.PNG)  
+![Create Pengurus](img/createpengurus.PNG)
 
-* Berikut adalah halaman keuangan
-  
-![vikry](img/keuangan.PNG)
+#### 👳‍♂️ Data Ustadz
+CRUD nama ustadz yang akan mengisi kegiatan seperti khutbah Jumat (ditampilkan juga di halaman berita):
+![Ustadz](img/ust.PNG)
 
-* Tampilan salah satu crud keuangan
-  
-![vikry](img/mesjid.PNG) 
+#### 📅 Jenis Kegiatan
+Berisi CRUD jenis kegiatan sebagai relasi ke halaman kegiatan:
+![Jenis Kegiatan](img/kegiatan.PNG)
 
-* Selanjutnya adalah hak akses, berikut tamplian crud dengan mengklik satu-satu mana saja yang halaman yang boleh dikelola user contoh Bendahara mengelola keuangan yang di atur superadmin yaitu ketua pengurus
-  
-![vikry](img/role.PNG)
-![vikry](img/rolrole.PNG)
+#### 🗓️ Kegiatan
+CRUD kegiatan dalam bentuk kalender agar efisien, dengan fitur klik tanggal untuk melihat detail acara:
+![Kalender Kegiatan](img/tangal.PNG)  
+![Detail Kegiatan](img/tgcrud.PNG)
 
-* Berikut halaman untuk pebuatan akun login untuk user lain yang di kelola oleh super admin
-  
-![vikry](img/login.PNG)
+#### 💰 Keuangan
+Terdapat halaman laporan dan CRUD transaksi keuangan:
+![Laporan Keuangan](img/keuangan.PNG)  
+![CRUD Keuangan](img/mesjid.PNG)
 
-* Berikut pesan atau masukan untuk pengurus yang di tulis di halaman umum kontak
-  
-![vikry](img/pesan.PNG)
+#### 🔐 Hak Akses (Role Management)
+Tampilan CRUD hak akses, diatur oleh Super Admin (Ketua Pengurus), contoh: Bendahara hanya bisa mengelola keuangan:
+![Role List](img/role.PNG)  
+![Role Detail](img/rolrole.PNG)
 
-Terima kasih telah melihat proyek ini. Kontribusi, saran, dan masukan sangat saya harapkan untuk pengembangan aplikasi ini ke depannya.
+#### 👤 Manajemen Akun Login
+Form untuk membuat akun login user lain, dikelola oleh Super Admin:
+![Login User](img/login.PNG)
+
+#### 💬 Pesan dari User (Kontak)
+Halaman untuk membaca pesan dari pengguna umum:
+![Pesan](img/pesan.PNG)
+
+---
+
+📬 **Terima kasih** telah melihat proyek ini.  
+Saya sangat menghargai saran, kritik, dan masukan untuk pengembangan lebih lanjut.
 
